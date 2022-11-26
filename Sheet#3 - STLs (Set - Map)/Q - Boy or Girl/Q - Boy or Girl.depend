@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666297163 source:c:\users\user\desktop\codes\c++\fcai-2021-general training\iron wave\sheet#3 - stls (set - map)\q - boy or girl\main.cpp
+	<iostream>
+	<string>
+	<set>
+	<map>
+	<stack>
+	<queue>
+	<vector>
+
