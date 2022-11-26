@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666807301 source:c:\users\user\desktop\codes\c++\fcai-2021-general training\iron wave\practice sheet#1\d - catch overflow!\main.cpp
+	<iostream>
+	<unordered_map>
+	<deque>
+	<string>
+	<stack>
+

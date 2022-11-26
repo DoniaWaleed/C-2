@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666804374 source:c:\users\user\desktop\codes\c++\fcai-2021-general training\iron wave\practice sheet#1\e - similar strings\main.cpp
+	<iostream>
+	<unordered_map>
+	<deque>
+	<string>
+
