@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1665746220 source:c:\users\user\desktop\codes\c++\fcai-2021-general training\iron wave\sheet#2 - stls (vector - queue - deque - stack)\f - regular bracket sequence\main.cpp
+	<iostream>
+	<deque>
+	<vector>
+	<stack>
+	<algorithm>
+	<string>
+

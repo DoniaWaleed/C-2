@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1665522934 source:c:\users\user\desktop\codes\c++\fcai-2021-general training\iron wave\sheet#2 - stls (vector - queue - deque - stack)\b- ada and queue\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+

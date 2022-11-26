@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665743350 source:c:\users\user\desktop\codes\c++\fcai-2021-general training\iron wave\sheet#2 - stls (vector - queue - deque - stack)\m - pushpush\main.cpp
+	<iostream>
+	<deque>
+	<vector>
+	<stack>
+	<algorithm>
+
